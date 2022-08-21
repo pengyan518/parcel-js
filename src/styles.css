@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+#app {
+  width: 75ch;
+  /* height: 75vh; */
+  /* overflow-y: scroll; */
+  margin: auto;
+  padding: 10px;
+  background-color: #001119;
+}
+.testimonial {
+  font-size: 18px;
+  margin: 16px;
+  padding: 10px;
+  background-color: #00557f;
+  color: #fff;
+}
